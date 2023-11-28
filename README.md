@@ -7,5 +7,5 @@
 - 🤔 Estou procurando ajuda com: Evolução na área de desenvolvimento, Pretendendo chegar a função Full Stack. 
 - 📫 Como chegar até mim: Victorferreira200406@gmail.com
 - 📱 Contato via WhatsApp.
-- 👨🏻‍🎓 Estudando: HTML, CSS, phyton.
+- 👨🏻‍🎓 Estudando: HTML, CSS, Phyton.
 
